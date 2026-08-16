@@ -1,0 +1,12 @@
+/* பிரௌசரின் இயல்பான இடைவெளிகளை (Margin & Padding) பூஜ்ஜியமாக்க */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #09122C; /* பின்னணி நிறத்தை முழுமையாக நிரப்ப */
+}
